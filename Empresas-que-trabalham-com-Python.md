@@ -1,6 +1,6 @@
-O Blog [InspirAda na Computação](http://inspiradanacomputacao.wordpress.com) elaborou uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista total de 148 - empresas e algumas instituições públicas - que usam a linguagem Python. 
+O Blog [InspirAda na Computação](http://inspiradanacomputacao.wordpress.com) elaborou uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista total de 148 - empresas e algumas instituições públicas - que usam a linguagem Python.
 
-PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção. 
+PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção.
 
 - @Saber
 - 180 Graus
@@ -76,6 +76,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - IFPE
 - IFPI
 - IFRN
+- IFRO
 - Index
 - INGG
 - Inova Software
@@ -92,7 +93,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Liberium
 - Loogica
 - Magazine Luiza
-- McDonalds 
+- McDonalds
 - Ministério Publico de Tocantins
 - Mobdoctor
 - MOBTech
@@ -114,7 +115,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Pycursos
 - Python Pro
 - QMágico
-- Quatix 
+- Quatix
 - Rdio
 - Red Hat
 - Riachuello
@@ -138,14 +139,15 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Tourhouse
 - Tracy Web Technologies
 - Tribunal Regional Eleitoral Regional Tocantins
-- Trippcs 
+- Trippcs
 - Triveos
 - Twitter
 - UCS
+- UFAC
 - UFRN
 - UFSM
 - Upando
-- USP 
+- USP
 - Vagalume
 - Veezor
 - Vetor Zero
@@ -154,7 +156,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Volkswagen
 - Wikipedia
 - WP8
-- Yacows 
+- Yacows
 - Youtube
 - Zazu
 - ZNC Sistemas
